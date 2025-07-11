@@ -36,6 +36,16 @@ Data terdiri dari beberapa variabel, diantaranya:
    ![Data Prediksi Sebagian](/Data%20Pred%20Datauji.png)
 
    # Hasil confusion matrix menggunakan caret untuk data uji
+   ![Data Prediksi Sebagian](/Conf%20Matrix.png)
+
+  ## ❗Berdasarkan hasil analisis regresi logistik:
+
+1. Model memiliki akurasi sebesar 70,59%, menunjukkan performa yang cukup baik secara keseluruhan.
+2. Model sangat sensitif dalam mengidentifikasi nasabah yang tidak menunggak (kelas 0), dengan sensitivitas 0,9433.
+3. Namun, spesifisitas rendah (0,2379) menunjukkan model kesulitan mengidentifikasi nasabah yang menunggak (kelas 1), menghasilkan banyak false negative.
+4. F1 Score sekitar 0,35, menunjukkan keseimbangan antara presisi dan recall masih belum optimal, kemungkinan karena data tidak seimbang.
+
+   
    
     
 
