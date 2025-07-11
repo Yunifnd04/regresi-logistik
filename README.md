@@ -36,6 +36,6 @@ Data terdiri dari beberapa variabel, diantaranya:
    ![Data Prediksi Sebagian](/Data%20Pred%20Datauji.png)
 
    # Hasil confusion matrix menggunakan caret untuk data uji
-   ![Data Prediksi Sebagian](/Conf%20Matrix.png)
+   
     
 
