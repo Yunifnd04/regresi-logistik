@@ -26,5 +26,6 @@ Data terdiri dari beberapa variabel, diantaranya:
 3.	Menampilkan Data dan Informasi
 4.	Memisahkan data dan Mencari model terbaik
 5.	Prediksi Data Latih
-6.	Prediksi Data Uji
+   ![Data Prediksi Sebagian](/Data%20Pred1.png)
+7.	Prediksi Data Uji
 
