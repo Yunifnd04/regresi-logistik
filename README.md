@@ -26,10 +26,10 @@ Data terdiri dari beberapa variabel, diantaranya:
 3.	Menampilkan Data dan Informasi
 4.	Memisahkan data dan Mencari model terbaik
 5.	Prediksi Data Latih
-   Tampilan Sebagian Data prediksi, data latih:
+   # Tampilan Sebagian Data prediksi, data latih:
   	
    ![Data Prediksi Sebagian](/Data%20Pred1.png)
 
-  	
+
 7.	Prediksi Data Uji
 
