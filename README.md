@@ -14,7 +14,8 @@ X6 – X11= Jumlah Tagihan Bulan ke 1-6
 X12 – X17= Pembayaran Tagihan ke 1-6
 Y= Status Nasabah (1= Menunggak, 0= Tidak)
 
-##🔸 Melakukan Prediksi
+## ✅Melakukan Prediksi
+
 1.	Packages yang wajib di Install
 -	Library (caTools)
 -	Library (caret)
