@@ -43,7 +43,12 @@ Data terdiri dari beberapa variabel, diantaranya:
 1. Model memiliki akurasi sebesar 70,59%, menunjukkan performa yang cukup baik secara keseluruhan.
 2. Model sangat sensitif dalam mengidentifikasi nasabah yang tidak menunggak (kelas 0), dengan sensitivitas 0,9433.
 3. Namun, spesifisitas rendah (0,2379) menunjukkan model kesulitan mengidentifikasi nasabah yang menunggak (kelas 1), menghasilkan banyak false negative.
-4. F1 Score sekitar 0,35, menunjukkan keseimbangan antara presisi dan recall masih belum optimal, kemungkinan karena data tidak seimbang.
+4. F1 Score sekitar 0,35 (menggunakan rumus F1 = 2 × (precision × recall) / (precision + recall)), mengindikasikan bahwa keseimbangan antara presisi dan recall dalam mendeteksi nasabah menunggak masih rendah. Ini menunjukkan bahwa model mengalami kesulitan dalam mengklasifikasikan kedua kelas dengan baik, terutama pada kelas yang minoritas (menunggak).
+
+
+
+
+
 
    
    
